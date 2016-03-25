@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleListeners</string>
+    <string name="action_settings">Settings</string>
+    <string name="ButtonTxt">Press Me!</string>
+    <string name="TextViewTxt">Welcome to multiple listeners</string>
+    <string name="TextViewLongTxt">Welcome to Long Click</string>
+</resources>
